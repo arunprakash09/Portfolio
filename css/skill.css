@@ -1,0 +1,54 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  margin: 0;
+}
+.body_section {
+  padding: 3% 5% 1%;
+}
+.name {
+  color: #f13c20;
+  font-size: 40px;
+  font-family: "Allan";
+}
+
+a {
+  text-decoration: none;
+}
+
+.headerachor {
+  color: black;
+  margin: 0 7px 0 7px;
+  font-size: 25px;
+}
+.skill-text {
+  color: gray;
+  font-size: 30px;
+  text-align: center;
+}
+.headerachor:hover {
+  background-color: #dbc5c5;
+}
+
+.Section1 {
+  padding: 4% 0 3%;
+}
+
+.skill-img {
+  width: 100%;
+  height: 100%;
+}
+
+.Skill-heading {
+  font-size: 40px;
+  font-weight: 300;
+  text-align: center;
+}
+@media only screen and (max-width: 950px) {
+  body,
+  html {
+    text-align: center;
+    font-size: 16px;
+    line-height: normal;
+  }
+}
